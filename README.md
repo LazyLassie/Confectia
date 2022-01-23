@@ -7,6 +7,6 @@ CSS
 Bootstrap 4
 
 References:
-Udemy's Angela Yu Course
-W3schools.com
+Udemy's Angela Yu Course,
+W3schools.com,
 Bootstrap Documentation
